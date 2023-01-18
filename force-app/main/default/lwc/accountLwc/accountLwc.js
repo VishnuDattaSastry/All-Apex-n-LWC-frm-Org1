@@ -24,3 +24,4 @@ export default class AccountLwc extends LightningElement {
         window.location.reload();  // this refresh entire page. 
     }
 }
+// adding comments to observe github changes. 
