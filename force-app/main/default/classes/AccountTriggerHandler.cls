@@ -7,6 +7,7 @@ public class AccountTriggerHandler {
                 acc.ShippingPostalCode	= acc.BillingPostalCode;
                 acc.ShippingState		= acc.BillingState;
                 acc.ShippingStreet		= acc.BillingStreet;
+                // adding another field for github testing purpose. 
             }
         }
     }
